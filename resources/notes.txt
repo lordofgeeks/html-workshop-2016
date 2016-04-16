@@ -1,0 +1,47 @@
+File 1
+open it
+look at how the code is formatted
+let's go through it part by part
+i'm going to teach you how to use the element inspector
+start with headers <h1> tags
+	not about style but semantics. style with CSS
+then image
+then links
+then caption
+then blockquote
+show the html5 semantics for layout
+move on to HTML text formatting 
+
+move to file 2
+explain about divs and how everything are made up of blocks
+show the blocks in web inspector
+
+move to file 3
+now everything is properly nested. you can see what is what
+don't care about the style first
+we get the basics of the language down
+
+
+HANDS ON TIME for all the students first
+hello world, first webpage etc.
+
+move to file 4
+expain about colors
+then about lists, OL UL
+talk about tables
+then move on to classes and ID
+	used in CSS which will be covered later on
+talk about anchor links to link within a page
+
+HANDS ON TIME
+Add items to list
+Add cell in table
+Add row in table
+Add column in table
+Create anchor links
+
+intro to CSS
+
+
+
+

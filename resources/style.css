@@ -1,0 +1,40 @@
+body {
+	padding: 50px;
+}
+.one {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	width: 60%;
+	height: 200px;
+	background: #CCC;
+	font-size: 20pt;
+	border: 5px solid black;
+}
+
+.two {
+	padding: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	background: gray;
+	width: 56%;
+	font-size: 20pt;
+	color: #FFFFFF;
+	border: 5px dashed black;
+}
+
+.three {
+	margin: 10px 0px 10px 0px;
+	padding: 10px;
+	background: red;
+	font-size: 20pt;
+	border: 5px outset black;
+}
+
+#four {
+	margin: 10px 0px 10px 0px;
+	padding: 10px;
+	background: blue;
+	font-size: 20pt;
+	border: 5px ridge black;
+}
